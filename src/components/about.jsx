@@ -39,11 +39,12 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                   </span>
                   <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Front End Development </h3>
+                    <p>I have experience in building web applications and chrome extentions using JavaScript, Angular, React, HTML, CSS and Bootstrap</p>
                   </div>
                 </div>
               </div>
+
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                   <span className="icon">
@@ -56,28 +57,31 @@ export default class About extends Component {
                 </div>
               </div>
               <div className="col-md-4 text-center animate-box">
+                <div className="services color-2">
+                  <span className="icon">
+                    <i className="icon-data" />
+                  </span>
+                  <div className="desc">
+                    <h3>Backend Development</h3>
+                    <p>I have experience in building REST Apis and Graphql Apis using Node.js, Express.js, MongoDB, PostgresSQL and Graphql</p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+            <div className="row">
+              <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                   <span className="icon">
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>Docker...</p>
                   </div>
                 </div>
               </div>
 
-              <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                  <span className="icon">
-                    <i className="icon-data" />
-                  </span>
-                  <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                  </div>
-                </div>
-              </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                   <span className="icon">
@@ -85,7 +89,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
+                    <p>Pencil.io</p>
                   </div>
                 </div>
               </div>
@@ -96,7 +100,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Digital Marketing</h3>
-                    <p>I use Instagram </p>
+                    <p>I use instagram...</p>
                   </div>
                 </div>
               </div>
