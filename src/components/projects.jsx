@@ -13,6 +13,22 @@ export default class Projects extends Component {
               </div>
             </div>
             <div className="row">
+              <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                <div className="project" style={{ backgroundImage: 'url(images/img-6.jpg)' }}>
+                  <div className="desc">
+                    <div className="con">
+                      <h3><a href="work.html">E-commerce Store</a></h3>
+                      <span>Ecommerce Store application build with Node.js, GraphQL, React.js, Redux, Prisma (ORM), PostgresSQL, and React-admin</span>
+                      <br />
+                      <h4>IN PROGRESS...</h4>
+                      <p className="icon">
+                        <span><a href="https://e-store.vercel.app"><i className="icon-link" /> View</a></span>
+                        <span><a href="https://github.com/phondani0/ecommerce_store" rel="noopener noreferrer" target="_blank"><i className="icon-github" /> Github</a></span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
                 <div className="project" style={{ backgroundImage: 'url(images/img-1.jpg)' }}>
                   <div className="desc">
@@ -87,22 +103,7 @@ export default class Projects extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-                <div className="project" style={{ backgroundImage: 'url(images/img-6.jpg)' }}>
-                  <div className="desc">
-                    <div className="con">
-                      <h3><a href="work.html">E-commerce Store</a></h3>
-                      <span>Ecommerce Store application build with Node.js, GraphQL, React.js, Redux, Prisma (ORM), PostgresSQL, and React-admin</span>
-                      <br />
-                      <h4>IN PROGRESS...</h4>
-                      <p className="icon">
-                        <span><a href="#"><i className="icon-link" /> View</a></span>
-                        <span><a href="https://github.com/phondani0/ecommerce_store" rel="noopener noreferrer" target="_blank"><i className="icon-github" /> Github</a></span>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
             </div>
             {/* <div className="row">
               <div className="col-md-12 animate-box">

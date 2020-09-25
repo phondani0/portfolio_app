@@ -40,7 +40,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Front End Development </h3>
-                    <p>I have experience in building web applications and chrome extentions using JavaScript, Angular, React, HTML, CSS and Bootstrap</p>
+                    <p>I have experience in building responsive web applications and Progressive Web Applications using JavaScript, Angular, React, HTML, CSS and Bootstrap</p>
                   </div>
                 </div>
               </div>
@@ -100,7 +100,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Digital Marketing</h3>
-                    <p>I use instagram...</p>
+                    <p>I use instagram and linkedin...</p>
                   </div>
                 </div>
               </div>

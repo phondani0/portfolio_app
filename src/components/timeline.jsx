@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>MEAN Stack developer at Delonix Travel Services <span>August 2019 - April 2020</span></h2>
-                        <p>Joined the Delonix Travel Services as a MEAN Stack Developer. My major part of the work was to handle the Tripbazaar platform (Hotels and Flights booking application), which enables the users to book hotels and flights from all over the world. I had the responsibility of the entire application, from development to deployment. I had also got an opportunity to expolore technologies such as Angular, MongoDB, AWS and Redis. Worked on technologies like node.js, express.js, angular, MongoDB, AWS, etc
+                        <p>Joined the Delonix Travel Services as a MEAN Stack Developer. My major part of the work was to handle the Tripbazaar platform (Hotels and Flights booking application), which enables the users to book hotels and flights from all over the world. I had the responsibility of the entire application, from development to deployment. I had also got an opportunity to explore technologies such as Angular, MongoDB, AWS and Redis. Worked on technologies like node.js, express.js, angular, MongoDB, AWS, etc
                         </p>
                       </div>
                     </div>
