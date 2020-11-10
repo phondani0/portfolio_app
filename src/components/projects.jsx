@@ -79,7 +79,7 @@ export default class Projects extends Component {
                       <span>Dashboard for latest covid-19 stats. Build using React.js, Material UI and Fetch Api</span>
                       <p className="icon">
                         <span>
-                          <a href="https://phondani0.github.io/corona_dashboard/" rel="noopener noreferrer" target="_blank"><i className="icon-link" /> View</a></span>
+                          <a href="https://covidapp.vercel.app/" rel="noopener noreferrer" target="_blank"><i className="icon-link" /> View</a></span>
                         <span>
                           <a href="https://github.com/phondani0/corona_dashboard" rel="noopener noreferrer" target="_blank"><i className="icon-github" /> Github</a>
                         </span>
