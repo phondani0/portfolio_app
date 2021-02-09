@@ -9,10 +9,10 @@ import Projects from './components/projects';
 class App extends Component {
   render() {
     return (
-      <div id="colorlib-page">
+      <div id="style-page">
         <div id="container-wrap">
           <Sidebar />
-          <div id="colorlib-main">
+          <div id="style-main">
             <Introduction />
             <About />
             <Timeline />

@@ -5,14 +5,14 @@ export default class Sidebar extends Component {
     return (
       <div>
         <div>
-          <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
-          <aside id="colorlib-aside" className="border js-fullheight">
+          <nav href="#navbar" className="js-style-nav-toggle style-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
+          <aside id="style-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }} />
-              <h1 id="colorlib-logo"><a href="index.html">Ankit Phondani</a></h1>
+              <h1 id="style-logo"><a href="index.html">Ankit Phondani</a></h1>
               <span className="email"><i className="icon-mail"></i> ankitphondani52@gmail.com</span>
             </div>
-            <nav id="colorlib-main-menu" role="navigation" className="navbar">
+            <nav id="style-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
@@ -22,7 +22,7 @@ export default class Sidebar extends Component {
                 </ul>
               </div>
             </nav>
-            <nav id="colorlib-main-menu">
+            <nav id="style-main-menu">
               <ul>
                 {/* <li><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li> */}
                 {/* <li><a href="https://twitter.com/phondani0" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li> */}
@@ -32,7 +32,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://medium.com/@phondani0" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
-            <div className="colorlib-footer">
+            <div className="style-footer">
               <p><small>
                 Made with <i className="icon-heart" aria-hidden="true" />
 
