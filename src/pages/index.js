@@ -19,8 +19,8 @@ const IndexPage = () => {
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="theme-color" content="#000000" />
-        <meta name="keywords" content="Ankit Phondani, Ankit, Phondani, phondani0" />
-        <meta name="description" content="Hey there , I'm Ankit Phondani. Full Stack Developer, Tech Enthusiast. phondani0. I'm currently working as a Full Stack Developer at Upwork." />
+        <meta name="keywords" content="Ankit Phondani, Ankit, Phondani, phondani0, ankitphondani, AnkitPhondani, ankit phondani from dehradun, Top Node.js developer in dehradun, best node.js developer in dehradun, phondaniankit, Full Stack Developer dehradun" />
+        <meta name="description" content="Hey there , I am Ankit Phondani. Full Stack Developer, Tech Enthusiast. phondani0. I'm currently working as a Full Stack Developer at Upwork." />
         <meta name="author" content="Ankit Phondani" />
 
         <link rel="preconnect" href="https://fonts.gstatic.com" />
