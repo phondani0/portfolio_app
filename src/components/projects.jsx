@@ -5,6 +5,13 @@ export default function Projects() {
 
   const [projects, setProjects] = useState([
     {
+      title: "Anunciavi - Online Marketplace",
+      description: "Online marketplace that helps users to sell, buy, or discover anything across Spain, developed using React.js,Redux,Firebase functions,firebase auth and GoogleMaps.",
+      imageUrl: "images/img-7.png",
+      websiteUrl: "https://anunciavi.com",
+      githubUrl: "",
+    },
+    {
       title: "E-commerce Store",
       description: "Ecommerce Store application build with Node.js, GraphQL, React.js, Redux, Prisma (ORM), PostgresSQL, and React-admin",
       imageUrl: "images/img-6.jpg",
@@ -39,13 +46,13 @@ export default function Projects() {
       websiteUrl: "https://covidapp.vercel.app/",
       githubUrl: "https://github.com/phondani0/corona_dashboard",
     },
-    {
-      title: "TripBazaar (Hotel booking platform)",
-      description: "MEAN Stack (MongoDb, Express.js, Angular, Node.js) and AWS",
-      imageUrl: "images/img-5.jpg",
-      websiteUrl: "https://tripbazaar.co",
-      githubUrl: "",
-    },
+    // {
+    //   title: "TripBazaar (Hotel booking platform)",
+    //   description: "MEAN Stack (MongoDb, Express.js, Angular, Node.js) and AWS",
+    //   imageUrl: "images/img-5.jpg",
+    //   websiteUrl: "https://tripbazaar.co",
+    //   githubUrl: "",
+    // },
   ]);
 
   return (
