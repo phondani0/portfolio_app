@@ -6,7 +6,7 @@ export default function Projects() {
   const [projects, setProjects] = useState([
     {
       title: "Anunciavi - Online Marketplace",
-      description: "Online marketplace that helps users to sell, buy, or discover anything across Spain, developed using React.js,Redux,Firebase functions,firebase auth and GoogleMaps.",
+      description: "Online marketplace that helps users to sell, buy, or discover anything across Spain, developed using React.js,Redux,Firebase.",
       imageUrl: "images/img-7.png",
       websiteUrl: "https://anunciavi.com",
       githubUrl: "",
@@ -17,6 +17,13 @@ export default function Projects() {
       imageUrl: "images/img-6.jpg",
       websiteUrl: "https://e-store.vercel.app",
       githubUrl: "https://github.com/phondani0/ecommerce_store",
+    },
+    {
+      title: "HowToTech (Blogging Platform)",
+      description: "Blog MVC app made with Node.js, Express.js, MongoDB and Handlebars.js, Html, Css, Javascript, Bootstrap, Heroku",
+      imageUrl: "images/img-3.jpg",
+      websiteUrl: "https://howtotech-ap.herokuapp.com/",
+      githubUrl: "https://github.com/phondani0/howtotech",
     },
     {
       title: "Acme Web Design",
@@ -31,13 +38,6 @@ export default function Projects() {
       imageUrl: "images/img-2.jpg",
       websiteUrl: "https://phondani0.github.io/github-finder/",
       githubUrl: "https://github.com/phondani0/github-finder",
-    },
-    {
-      title: "HowToTech (Blogging Platform)",
-      description: "Blog MVC app made with Node.js, Express.js, MongoDB and Handlebars.js, Html, Css, Javascript, Bootstrap, Heroku",
-      imageUrl: "images/img-3.jpg",
-      websiteUrl: "https://howtotech-ap.herokuapp.com/",
-      githubUrl: "https://github.com/phondani0/howtotech",
     },
     {
       title: "Corona Dashboard",
